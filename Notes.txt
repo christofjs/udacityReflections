@@ -16,3 +16,4 @@
 3. Creating and Modifying a Repository
    - `git init` starts a new git repository (creates .git file)
    - `git status` shows current branch and files changed
+   - making a change
