@@ -1,0 +1,18 @@
+1. NAVIGATING COMMIT HISTORY
+   - keep line lengths small when possible
+      - helps when comparing differences
+   - GitBash command is `diff -u old_file new_file`
+   - having easy access to history leaves you more willing to explore and make
+     mistakes
+      - can more quickly pivot from dead end attempts
+   - Git name from: "I'm an egotistical bastard and I name all my projects
+     after myself"
+   - `git diff <commit id> <commit id>` check differences
+   - one commit per logical change
+   - `git log --status` gives extra information on changes
+   - code changes often require changing multiple files at once
+   - git log lists all of the commits with brief descriptions
+   - git diff with and old, then a new commit id shows changes between them
+3. Creating and Modifying a Repository
+   - `git init` starts a new git repository (creates .git file)
+   - `git status` shows current branch and files changed
