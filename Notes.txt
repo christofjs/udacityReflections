@@ -12,7 +12,7 @@
    - `git log --status` gives extra information on changes
    - code changes often require changing multiple files at once
    - git log lists all of the commits with brief descriptions
-   - git diff with and old, then a new commit id shows changes between them
+   - git diff with an old, then a new commit id shows changes between them
 3. Creating and Modifying a Repository
    - `git init` starts a new git repository (creates .git file)
    - `git status` shows current branch and files changed
